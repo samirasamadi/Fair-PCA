@@ -7,7 +7,7 @@ The data sets used in this paper belong to
 
 -- I-Cheng Yeh and Che-hui Lien. The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients. Expert Systems with Applications, 36(2): 2473–2480, 2009.
 
-You can download the data folder used for code from https://drive.google.com/file/d/1oj6BwlPHZap4qYPGdGKObBzEXcPiuY9Y/view?usp=sharing 
+The data folder required to run this code is available here https://drive.google.com/file/d/1oj6BwlPHZap4qYPGdGKObBzEXcPiuY9Y/view?usp=sharing 
 
 
 
