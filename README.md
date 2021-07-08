@@ -11,6 +11,10 @@ The data sets used in this paper belong to
 
 The data folder required to run this code is available here https://drive.google.com/file/d/1oj6BwlPHZap4qYPGdGKObBzEXcPiuY9Y/view?usp=sharing 
 
+## Note
+
+The newer version of this paper's algorithm is available at https://github.com/uthaipon/multi-criteria-dimensionality-reduction. The new algorithms are in Python and applicable to more general classes of fair PCA problems, such as more than two groups and other fairness criteria.
+
 
 
 
